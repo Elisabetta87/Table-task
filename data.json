@@ -1,0 +1,14 @@
+{"cities": [
+
+  {"country": "Italy", "city": "Rome", "area": 1285, "population": 2.9},
+  {"country": "England", "city": "London", "area": 1572, "population": 8.7},
+  {"country": "France", "city": "Paris", "area": 105.4, "population": 2.3},
+  {"country": "Germany", "city": "Berlin", "area": 891.8, "population": 3.5},
+  {"country": "Spain", "city": "Madrid", "area": 605.8, "population": 3.2},
+  {"country": "Poland", "city": "Warsaw", "area": 517, "population": 1.7},
+  {"country": "United States", "city": "New York", "area": 789, "population": 8.4},
+  {"country": "Australia", "city": "Sydney", "area": 12368, "population": 4.3},
+  {"country": "Japan", "city": "Tokyo", "area": 2188, "population": 13.62},
+  {"country": "Brazil", "city": "Brasilia", "area": 5802, "population": 2.4}
+
+]}

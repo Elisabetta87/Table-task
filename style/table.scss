@@ -1,0 +1,38 @@
+@import "../node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+
+.table{
+  margin-top: 50px;
+}
+
+tbody tr:hover {
+  background-color: #dff0d8!important;
+}
+
+thead th{
+  text-align: center;
+}
+
+th i.glyphicon{
+  cursor: pointer;
+  display: block;
+}
+
+th {
+  i.active, span.active {
+    color: #66f;
+  }
+}
+
+@media (min-width: $screen-sm) {
+
+    thead th{
+      text-align: inherit;
+    }
+
+    th i.glyphicon{
+      float: right;
+      display: inline-block;
+    }
+
+}
