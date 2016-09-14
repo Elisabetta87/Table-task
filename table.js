@@ -22,7 +22,7 @@ $(function () {
         $(this).parent().find("span").addClass("active");
 
         cities.sort(function (a,b) {
-            return a[key] > b[key];
+            return a[key] > b[key] ? 1 : -1;
         });
 
         printData(cities);
